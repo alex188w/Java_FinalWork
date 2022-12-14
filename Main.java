@@ -94,4 +94,5 @@ public class Main {
         if (count == 0)
             System.out.println("К сожалению, по Вашим критериям нет подходящих ноутбуков");
     }
+    
 }
